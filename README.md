@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -77,6 +78,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -106,6 +108,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
