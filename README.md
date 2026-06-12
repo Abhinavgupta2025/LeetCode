@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
