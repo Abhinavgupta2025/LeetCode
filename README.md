@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -97,6 +98,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
