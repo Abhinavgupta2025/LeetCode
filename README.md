@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -76,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -133,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
