@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -57,6 +58,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
