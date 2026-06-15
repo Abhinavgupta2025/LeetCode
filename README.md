@@ -15,6 +15,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -67,6 +68,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
