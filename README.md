@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -65,6 +66,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -178,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
