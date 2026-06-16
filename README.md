@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -48,6 +49,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -113,6 +115,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
