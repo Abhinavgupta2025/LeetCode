@@ -52,6 +52,7 @@
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
