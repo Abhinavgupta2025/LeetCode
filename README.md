@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -144,6 +145,7 @@
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -186,6 +188,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
