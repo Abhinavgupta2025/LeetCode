@@ -10,18 +10,17 @@ public:
             while(right<n && s[right]==32){
                 right++;
             }
-            if(right==n) break;
+            if(right == n) break;
             while(right<n && s[right]!=32){
                 s[left++] = s[right++];
             }
             reverse(s.begin()+start,s.begin()+left);
-            s[left] = ' ';
-            left++;
+            s[left++] = ' ';
             start = left;
-            right++;
-
+            
         }
         s.resize(left-1);
+        
         return s;
     }
 };
