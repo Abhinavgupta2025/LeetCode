@@ -13,15 +13,15 @@ public:
         return prev;
     }
     ListNode* getKthNode(ListNode* head,int k){
-        ListNode* temp = head;
-        while(temp && k){
-            temp = temp->next;
-            k--;
-        }
-        return temp;
+            while(head && k--){
+                head = head->next;
+            }
+            return head;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
+            if(head == NULL) return NULL;
             ListNode* temp = head;
+            ListNode* nxt = NULL;
             ListNode* prevNode = NULL;
             while(temp){
                 ListNode* node = getKthNode(temp,k-1);
@@ -29,17 +29,18 @@ public:
                     if(prevNode) prevNode->next = temp;
                     break;
                 }
-                ListNode* nxt = node->next;
+                nxt = node->next;
                 node->next = NULL;
                 reverseList(temp);
-                if(temp == head){
+                if(head==temp){
                     head = node;
                 }
                 else{
                     prevNode->next = node;
                 }
-                prevNode = temp;
-                temp = nxt;
+                    prevNode = temp;
+                    temp = nxt;
+                
             }
             return head;
     }
