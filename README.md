@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
