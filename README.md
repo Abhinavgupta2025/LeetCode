@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
