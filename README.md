@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -70,6 +71,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0090-subsets-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -238,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0148-sort-list/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
