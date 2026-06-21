@@ -30,6 +30,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
@@ -63,6 +64,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -152,6 +154,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Two Pointers
