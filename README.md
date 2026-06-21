@@ -35,6 +35,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3355-zero-array-transformation-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -157,6 +158,7 @@
 | [2381-shifting-letters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3355-zero-array-transformation-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3355-zero-array-transformation-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
