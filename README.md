@@ -36,6 +36,7 @@
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3355-zero-array-transformation-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3355-zero-array-transformation-i/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -100,6 +101,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3356-zero-array-transformation-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Indexed Tree
@@ -159,6 +161,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3355-zero-array-transformation-i/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Tree
