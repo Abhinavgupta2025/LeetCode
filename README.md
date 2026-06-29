@@ -26,6 +26,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -68,6 +69,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2381-shifting-letters-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
