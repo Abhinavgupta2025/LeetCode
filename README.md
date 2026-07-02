@@ -37,6 +37,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3355-zero-array-transformation-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3356-zero-array-transformation-ii/) | Medium |
@@ -210,6 +211,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0079-word-search/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,4 +275,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
