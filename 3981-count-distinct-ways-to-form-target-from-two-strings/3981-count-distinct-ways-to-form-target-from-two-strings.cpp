@@ -1,37 +1,35 @@
 class Solution {
 public:
-    int mod = 1e9 + 7;
-    int n, m, o;
+    int n,m,o;
     int dp[101][101][101][2][2];
-    int solve(int i, int j, int k, string& word1, string& word2, string& target,
-              bool flag1, bool flag2) {
-        if (k == o) {
-            if (flag1 && flag2)
-                return 1;
+    const int mod = 1e9+7;
+    int check(int idx1,int idx2,int idx3,bool flag1,bool flag2,
+          string& word1,string& word2,string& target){
+         if(idx3==o){
+            if(flag1 && flag2) return 1;
             return 0;
-        }
-        if(dp[i][j][k][flag1][flag2]!=-1) return dp[i][j][k][flag1][flag2];
-        int take1 = 0;
-        for (int ii = i; ii < n; ii++) {
-            if (target[k] == word1[ii]) {
-                take1 =
-                    (take1 + solve(ii + 1, j, k + 1, word1, word2, target, true, flag2)) %
-                    mod;
+         }
+        if (dp[idx1][idx2][idx3][flag1][flag2]!=-1) return dp[idx1][idx2][idx3][flag1][flag2];
+         int take1 = 0;
+         for(int i=idx1;i<n;i++){
+            if(target[idx3]==word1[i]){
+                take1 = (take1 +  check(i+1,idx2,idx3+1,true,flag2,word1,word2,target))%mod;
             }
-        }
-        int take2 = 0;
-        for (int jj = j; jj < m; jj++) {
-            if (target[k] == word2[jj]) {
-                take2 =
-                    (take2 + solve(i, jj + 1, k + 1, word1, word2, target, flag1, true)) %
-                    mod;
+         }
+         int take2 = 0;
+         for(int i=idx2;i<m;i++){
+            if(target[idx3]==word2[i]){
+                take2 = (take2+check(idx1,i+1,idx3+1,flag1,true,word1,word2,target))%mod;
             }
-        }
-        return dp[i][j][k][flag1][flag2]=(take1 + take2) % mod;
+         }
+         return dp[idx1][idx2][idx3][flag1][flag2] = ((take1+take2)%mod);
+
     }
     int interleaveCharacters(string word1, string word2, string target) {
-        n = word1.size(), m = word2.size(), o = target.size();
-        memset(dp,-1,sizeof(dp));
-        return solve(0, 0, 0, word1, word2, target, false, false);
+            n = word1.size();
+            m = word2.size();
+            o = target.size();
+            memset(dp,-1,sizeof(dp));
+            return check(0,0,0,false,false,word1,word2,target);
     }
 };
