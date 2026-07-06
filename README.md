@@ -29,6 +29,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -205,6 +206,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -297,4 +299,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
