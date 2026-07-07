@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -72,6 +73,7 @@
 | [0022-generate-parentheses](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -144,6 +146,7 @@
 | [0075-sort-colors](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0229-majority-element-ii](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinavgupta2025/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -190,6 +193,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
