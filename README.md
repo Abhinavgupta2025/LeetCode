@@ -204,11 +204,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavgupta2025/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Union-Find
@@ -256,6 +259,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/Abhinavgupta2025/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinavgupta2025/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
