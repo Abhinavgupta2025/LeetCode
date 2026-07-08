@@ -12,18 +12,14 @@ public:
                 if(height[left]<leftMax){
                     count += leftMax-height[left];
                 }
-                else{
-                    leftMax = height[left];
-                }
+                else leftMax = height[left];
                 left++;
             }
             else{
                 if(height[right]<rightMax){
                     count += rightMax-height[right];
                 }
-                else{
-                    rightMax = height[right];
-                }
+                else rightMax = height[right];
                 right--;
             }
         }
