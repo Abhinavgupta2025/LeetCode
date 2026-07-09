@@ -1,0 +1,11 @@
+{
+  "problemName": "Path Existence Queries in a Graph I",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "runtime": 4,
+  "memory": 224164000,
+  "submissionTime": "2026-07-09T16:39:52.000Z",
+  "problemUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
