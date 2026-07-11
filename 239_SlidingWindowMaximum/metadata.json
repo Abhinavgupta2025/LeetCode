@@ -1,0 +1,11 @@
+{
+  "problemName": "Sliding Window Maximum",
+  "difficulty": "Hard",
+  "language": "cpp",
+  "runtime": 2341,
+  "memory": 142852000,
+  "submissionTime": "2026-07-11T13:19:26.000Z",
+  "problemUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
