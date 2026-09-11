@@ -1,0 +1,11 @@
+{
+  "problemName": "Unique 3-Digit Even Numbers",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "runtime": 430,
+  "memory": 192880000,
+  "submissionTime": "2026-09-11T03:46:33.000Z",
+  "problemUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
