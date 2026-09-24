@@ -1,0 +1,11 @@
+{
+  "problemName": "Smallest Index With Digit Sum Equal to Index",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "runtime": 0,
+  "memory": 30948000,
+  "submissionTime": "2026-09-24T13:02:29.000Z",
+  "problemUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
