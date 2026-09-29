@@ -1,0 +1,11 @@
+{
+  "problemName": "Maximum Equal Adjacent Pairs After at Most One Replacement",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "runtime": 2036,
+  "memory": 566200000,
+  "submissionTime": "2026-09-29T09:00:23.000Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
