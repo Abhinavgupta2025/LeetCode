@@ -1,0 +1,11 @@
+{
+  "problemName": "Sum of Subarray Ranges",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "runtime": 6,
+  "memory": 15916000,
+  "submissionTime": "2026-10-09T12:27:00.000Z",
+  "problemUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+  "repository": "Abhinavgupta2025/LeetCode",
+  "commitSha": ""
+}
