@@ -1,0 +1,115 @@
+# Maximum Length of a Concatenated String with Unique Characters
+
+**Difficulty:** Medium
+**Language:** plaintext
+**Runtime:** N/A
+**Memory:** N/A
+**Submission Date:** Nov 12, 2026, 4:46 PM
+**Problem URL:** [https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+
+---
+
+## Problem Statement
+
+You are given an array of strings arr. A string s is formed by the concatenation of a subsequence of arr that has unique characters.
+
+Return the maximum possible length of s.
+
+A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
+
+Example 1:
+
+Input: arr = ["un","iq","ue"]
+Output: 4
+Explanation: All the valid concatenations are:
+- ""
+- "un"
+- "iq"
+- "ue"
+- "uniq" ("un" + "iq")
+- "ique" ("iq" + "ue")
+Maximum length is 4.
+
+Example 2:
+
+Input: arr = ["cha","r","act","ers"]
+Output: 6
+Explanation: Possible longest valid concatenations are "chaers" ("cha" + "ers") and "acters" ("act" + "ers").
+
+Example 3:
+
+Input: arr = ["abcdefghijklmnopqrstuvwxyz"]
+Output: 26
+Explanation: The only string in arr has all 26 characters.
+
+Constraints:
+
+- 1 <= arr.length <= 16
+
+- 1 <= arr[i].length <= 26
+
+- arr[i] contains only lowercase English letters.
+
+---
+
+## Examples
+
+Input: arr = ["un","iq","ue"]
+Output: 4
+Explanation: All the valid concatenations are:
+- ""
+- "un"
+- "iq"
+- "ue"
+- "uniq" ("un" + "iq")
+- "ique" ("iq" + "ue")
+Maximum length is 4.
+
+Input: arr = ["cha","r","act","ers"]
+Output: 6
+Explanation: Possible longest valid concatenations are "chaers" ("cha" + "ers") and "acters" ("act" + "ers").
+
+Input: arr = ["abcdefghijklmnopqrstuvwxyz"]
+Output: 26
+Explanation: The only string in arr has all 26 characters.
+
+---
+
+## Constraints
+
+_Not available._
+
+---
+
+## My Solution
+
+```plaintext
+class Solution {
+public:
+    int check(int idx,string temp,vector<string>& arr){
+         if(idx == arr.size()){
+             return temp.length();
+         }
+         string temp2 = temp + arr[idx];
+         int notTake = check(idx+1,temp,arr);
+         int take = 0;
+         bool flag = false;
+         vector<int> freq(26,0);
+         for(int i=0;i<temp2.length();i++){
+              if(freq[temp2[i]-'a']!=0){
+                flag = true;
+                break;
+              }
+              else{
+                freq[temp2[i]-'a']++;
+              }
+         }
+         if(!flag) take = check(idx+1,temp2,arr);
+         return max(take,notTake);
+    }
+    int maxLength(vector<string>& arr) {
+        int n = arr.size();
+        return check(0,"",arr);
+    }
+};
+```
